@@ -43,7 +43,7 @@ ul li a:before
         -ms-transition: .5s;
          -o-transition: .5s;
             transition: .5s;
-    background: #3914af;
+    background: #301c0c;
     mix-blend-mode: multiply;
 }
 
@@ -60,7 +60,7 @@ ul li a:after
         -ms-transition: .5s;
          -o-transition: .5s;
             transition: .5s;
-    background: #ecce8e;
+    background: #a95221;
     mix-blend-mode: multiply;
 }
 
